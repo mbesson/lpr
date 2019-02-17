@@ -22,3 +22,90 @@ q1 & 100 \\
    \hline
 \end{tabular}
 \end{table}
+
+Solution of the problem Purchase plan with decreasing unit costs
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{rr}
+  \hline
+ & Solution \\ 
+  \hline
+q1 & 200 \\ 
+  q2 & 0 \\ 
+  q3 & 0 \\ 
+  q4 & 0 \\ 
+  r1 & 550 \\ 
+  r2 & 0 \\ 
+  r3 & 0 \\ 
+  r4 & 0 \\ 
+  s1 & 600 \\ 
+  s2 & 400 \\ 
+  s3 & 150 \\ 
+  s4 & 0 \\ 
+  b1 & 1 \\ 
+  b2 & 0 \\ 
+  b3 & 0 \\ 
+  b4 & 0 \\ 
+  obj  & 10200 \\ 
+   \hline
+\end{tabular}
+\end{table}
+
+The solution to the same problem with m = 10
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{rr}
+  \hline
+ & Solution \\ 
+  \hline
+q1 & 200 \\ 
+  q2 & 200 \\ 
+  q3 & 200 \\ 
+  q4 & 120 \\ 
+  r1 & 10 \\ 
+  r2 & 10 \\ 
+  r3 & 10 \\ 
+  r4 & 0 \\ 
+  s1 & 60 \\ 
+  s2 & 70 \\ 
+  s3 & 30 \\ 
+  s4 & 0 \\ 
+  b1 & 1 \\ 
+  b2 & 1 \\ 
+  b3 & 1 \\ 
+  b4 & 0 \\ 
+  obj  & 11240 \\ 
+   \hline
+\end{tabular}
+\end{table}
+
+With M = 100000
+
+\begin{table}[ht]
+\centering
+\begin{tabular}{rr}
+  \hline
+ & Solution \\ 
+  \hline
+q1 & 200 \\ 
+  q2 & 0 \\ 
+  q3 & 0 \\ 
+  q4 & 0 \\ 
+  r1 & 550 \\ 
+  r2 & 0 \\ 
+  r3 & 0 \\ 
+  r4 & 0 \\ 
+  s1 & 600 \\ 
+  s2 & 400 \\ 
+  s3 & 150 \\ 
+  s4 & 0 \\ 
+  b1 & 1 \\ 
+  b2 & 0 \\ 
+  b3 & 0 \\ 
+  b4 & 0 \\ 
+  obj  & 10200 \\ 
+   \hline
+\end{tabular}
+\end{table}

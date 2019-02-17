@@ -20,4 +20,4 @@ SolverLP <- function (model , method ="CPLEX_LP", decimal =0)
   return ( results )
 }
 
-SolverLP("production.cplex")
+SolverLP("purchaseWithDecreasing.cplex")
